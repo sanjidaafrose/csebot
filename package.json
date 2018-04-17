@@ -1,0 +1,14 @@
+{
+  "name": "csebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csebot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MR",
+  "license": "MIT",
+  "dependencies": {
+    "claudia-bot-builder": "^4.0.0"
+  }
+}
